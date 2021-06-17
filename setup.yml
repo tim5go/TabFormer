@@ -13,5 +13,6 @@ dependencies:
   - transformers
   - numpy
   - libgcc
+  - pip
   - pip:
       - transformers==3.2.0
